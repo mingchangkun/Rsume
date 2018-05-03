@@ -1,15 +1,15 @@
 # 联系方式
 - 手机：17607181187
-- Email：goodman@gmail.com
+- Email：mck5017265@gmail.com
 - 微信号：mck5017265
 # 个人信息
  - 明昌昆/男/1996 
  - 专科/黄冈职业技术学院
- - 工作年限：1年
+ - 工作年限：2年
  - 技术博客：https://blog.csdn.net/qq_33811090
  - Github：https://github.com/mingchangkun
  - 期望职位：Java中级程序员
- - 期望薪资：税前月薪10k~15k，特别喜欢的公司可例外
+ - 期望薪资：税前月薪12k~15k，特别喜欢的公司可例外
  - 期望城市：上海
 
 # 工作经历
