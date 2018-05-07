@@ -37,7 +37,7 @@
 - 软件配置管理：Maven/Svn/Git
 
 掌握分布式文件系统fastDFS、全文搜索引擎solr、缓存技术redis集群搭建。
-熟悉集群下并发解决方案，高可用(Nginx，lvs)，集群下session共享，分布式锁（Zookeeper）解决方案。
+熟悉集群下并发解决方案，高可用(Nginx，lvs)，集群下session共享，分布式锁（Zookeeper)、SpringCloud雪崩效验解决办法。
 了解Elasticsearch全文检索，MySQL主从复制与读写分离，JVM参数调优。
     
     
